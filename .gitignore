@@ -1,0 +1,10 @@
+# written by the checks and the render pipeline
+__pycache__/
+.chk/
+viz/mesh/
+*.stl
+*.log
+_*_gen.*
+
+# PAR6 arm meshes: CERN-OHL-S-2.0, fetch them from Source Robotics (README)
+par6_ref/meshes/

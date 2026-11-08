@@ -1,0 +1,10 @@
+{
+    "autodeskProduct": "Fusion360",
+    "type": "script",
+    "author": "",
+    "description": {
+        "": "Dzwignia pomiarowa momentu na walek 8 mm (NEMA23 57BYG250B)"
+    },
+    "supportedOS": "windows|mac",
+    "editEnabled": true
+}

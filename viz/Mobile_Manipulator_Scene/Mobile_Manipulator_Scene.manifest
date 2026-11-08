@@ -1,0 +1,10 @@
+{
+    "autodeskProduct": "Fusion360",
+    "type": "script",
+    "author": "",
+    "description": {
+        "": "Scena robota do Instagrama - siatki z viz/export.py (model OpenSCAD)"
+    },
+    "supportedOS": "windows|mac",
+    "editEnabled": true
+}
